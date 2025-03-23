@@ -1,0 +1,2 @@
+- environment variables com dotenv
+- mysql com mysql2
